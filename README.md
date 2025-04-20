@@ -14,13 +14,6 @@ By this version, features include:
 - flutter pub get
 - flutter run
 
-# Links
-
-- Preview video: https://youtu.be/h1Cw7IoJByU
-- Support my work: https://www.patreon.com/sangvaleap
-- My Twitter: https://twitter.com/sangvaleap
-- UI/UX: https://www.behance.net/gallery/131805657/Food-Delivery-UI-Kit
-
 <img width="600" alt="Screen Shot 2022-01-01 at 1 08 04 PM" src="https://user-images.githubusercontent.com/86506519/147845117-f8533d4d-faec-477e-be2e-dfb3c3c573eb.png">
 <img width="600" alt="food2" src="https://user-images.githubusercontent.com/86506519/147852827-400269be-0c87-4a51-bc76-c4bec133016a.png">
 
